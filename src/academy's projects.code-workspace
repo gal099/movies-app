@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\news_app"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "movies_app"
+  }
+}
